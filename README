@@ -1,6 +1,5 @@
 Bioinformatics Data Integration Practicum 
 hi
 
-'''
-prefetch PRJNA507280
-'''
+  prefetch PRJNA507280
+
